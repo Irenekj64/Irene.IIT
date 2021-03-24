@@ -1,0 +1,91 @@
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>Introduction To Information Technology Assignment 1</h1>
+
+<h2>Personal Information</h2>
+
+<p>
+Name: Irene Kappiliparampil Jacob
+Student Number: s3902435
+Student Email Address: s3902435@student.rmit.edu.au 
+Insert Picture:</p>
+
+<p>Background Info: 
+I was born in Kerala, India, and moved to New Zealand when I was three. I lived in
+New Zealand for 14 years and moved to Australia in 2019. I graduated from highschool
+last year and am in my first year of the bachelor of IT.</p>
+
+<h2>Interest in IT</h2>
+
+<p> Was there a particular event or person that sparked your interest? Outline your IT
+ experience (if any).
+One particular event that sparked my interest was the very first time my father bought a 
+Toshiba laptop I was fascinated by how much the laptop facilitated simple, everyday tasks, 
+such as searching up information, sending messages and emails, and watching movies or shows.
+This interest lead me to take up VCE Computing in Year 11, where I found a particular 
+interest in Cyberssecurity, and specifically how it can be used to prevent cybercrime.<p/>
+
+<p>Why did you choose to come to RMIT?
+I chose to come to RMIT of the reputation it has in producing (Amazing?) IT graduates. 
+Additionally, RMIT’s state of the art facilities also adds to this. Also, RMIT University is
+close to where I live</p>
+
+<p> What do you expect to learn during your studies?
+I expect to learn more about the Information Technology industry, as well as gain experience 
+and understanding in a wide range of IT subjects. Furthermore I hope that this will allow
+me to solidate my decision of which IT field or career to pursue.</p>
+
+<h2>Ideal Job</h2>
+<p>Computer Forensic Analyst</p>
+<p>
+The job advertisement itself. Include a link, and a snapshot of it (in case the link expires before the
+assignment deadline).
+
+A description (in your own words) of the position, and particularly what makes this position appealing to you.
+Fighting against cybercrime
+
+A description (in your own words) of the skills, qualifications and experience required for the position.
+Bachelor of IT/ Cybersecurity
+
+A description (in your own words) of the skills, qualifications and experience you currently have.
+I am currently enrolled in a bachelor of IT, but still do not have any experience in 
+cybersecurity, nor any cybersecurity related skills
+
+A plan describing how you will obtain the skills, qualifications and experience required for the position, building on those you have now. This need not be greatly detailed, (and will probably change significantly over time anyway), but try to be as specific as you can.
+After I graduate from my Bachelor of IT with a major in security, I intend to gain some 
+industry -related experience, as well as even further my studies by taking a master of 
+cybersecurity
+</p>
+
+<h2>Personal Profile</H2>
+
+<p> Results of online Myer Briggs test (Insert Picture) </p>
+
+
+<p>Results of online learning style test (Insert Picture and Link)</p>
+
+<p> Results of Big Five Personality Test (Insert Picture and Link)</p>
+
+<p>Discussion:
+What do the results of these tests mean for you?
+How do you think these results may influence your behaviour in a team?
+How should you take this into account when forming a team?
+</p>
+
+
+<h2>Project Idea<h2>
+
+
+
+
+
+ 
+
+
+
+
+</body>
+</html>
